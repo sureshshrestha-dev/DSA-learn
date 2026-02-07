@@ -1,2 +1,3 @@
 # DSA-learn
-lreaning DSA 
+learning DSA 
+no coding
